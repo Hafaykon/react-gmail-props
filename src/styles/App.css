@@ -116,6 +116,10 @@
   text-overflow: ellipsis;
 }
 
+.email .title:hover {
+  cursor: pointer;
+}
+
 .email .star-checkbox {
   appearance: none;
   position: relative;
